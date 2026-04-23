@@ -11,7 +11,7 @@ The frontend is built with React and Vite, and the project is currently in devel
 
 ## Source Code:  
 - [Eaglercraft2 (Game Platform)](https://github.com/Eaglercraft2/Eaglercraft2)  
-- [Minecraft: Web Edition (First Game)](https://github.com/Eaglercraft2/Minecraft-Web-Edition)  
+- [Minecraft: Web Edition (First Game)](https://github.com/Eaglercraft2/MinecraftWebEdition)  
 - [MCLW (Modding Layer)](https://github.com/Eaglercraft2/MCLW)
 ## Notable Links:
 - [OpenCollective: Support Us](https://opencollective.com/eaglercraft20_minecraft)  
